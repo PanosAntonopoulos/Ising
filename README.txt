@@ -1,6 +1,5 @@
-Hello. This is a readme file for MVP CP2.
+Hello. 
 
-The file named “CODE” includes all the code files for my CP2 submission.
 “GameOfLifeSimulationWithGliderVelocity_d020324_v001.py” is the simulation of the game of life including calculations to calculate the glider velocity.
 “GameOfLifeMeasurement_d020324_v001.py” is the code to make the histogram of time needed to reach absorbing state.
 “SIRSvisualiseSim_d020324_v002.py” is the code to visualise the simulation of SIRS.
